@@ -21,7 +21,7 @@
 
         header {
             background-color: #020049;
-            padding: 20px;
+            padding: 25px;
             text-align: center;
             color: white;
         }
@@ -62,7 +62,7 @@
         }
 
         .hero h2 {
-            font-size: 3rem;
+            font-size: 9rem;
             font-weight: bold;
         }
 
@@ -156,7 +156,7 @@
 
 <nav>
     <a href="#about">About</a>
-    <a href="#projects">Scoials</a>
+    <a href="#projects">Scoial</a>
     <a href="#contact">Contact</a>
 </nav>
 
@@ -167,7 +167,7 @@
 <section id="about">
     <div class="container">
         <div class="about">
-            <img src="https://i.ibb.co/gZGtNDs/pp.jpg" alt="P.M.Sanuth Santhush">
+            <img src="https://i.ibb.co/mSvXT5V/pp.jpg" alt="P.M.Sanuth Santhush">
             <div class="about-content">
                 <h3>About Me</h3>
                 <p>Hello, I'm Sanuth Santhush, a passionate graphic designer. I love creating visually appealing and highly functional websites that provide a great user experience. My goal is to bring innovative ideas to life through code and design.</p>
@@ -185,7 +185,7 @@
         <h2>My Socials</h2>
         <div class="project-list">
             <div class="project-item">
-                <h4>Facebook 1: Facebook Profile</h4>
+                <h4>Facebook: Facebook Profile</h4>
                 <a href="https://www.facebook.com/profile.php?id=61559037106826&mibextid=ZbWKwL" style="padding: 10px 20px; background-color: #c70000; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">View</a>
             </div>
             <div class="project-item">
