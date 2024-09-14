@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Mr.Sanuth Santhush - Personal Website</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+
+        nav a {
+            color: white;
+            padding: 15px 20px;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+
+        nav a:hover {
+            background-color: #575757;
+        }
+
+        .hero {
+            height: 400px;
+            background-image: url('https://i.ibb.co/JRPqqB9/newq.jpg');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+        }
+
+        .hero h2 {
+            font-size: 3rem;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 40px;
+            background-color: white;
+            margin: 20px 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 0 20px;
+        }
+
+        .about {
+            display: flex;
+            align-items: center;
+        }
+
+        .about img {
+            width: 300px;
+            margin-right: 40px;
+            border-radius: 10px;
+        }
+
+        .about-content {
+            max-width: 700px;
+        }
+
+        .about-content h3 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        .projects {
+            text-align: center;
+        }
+
+        .projects h2 {
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+        }
+
+        .project-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .project-item {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .project-item h4 {
+            margin-bottom: 10px;
+            font-size: 1.5rem;
+        }
+
+        .contact {
+            text-align: center;
+        }
+
+        .contact h2 {
+            margin-bottom: 20px;
+            font-size: 2.5rem;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            position: relative;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Mr.Sanuth Santhush</h1>
+    <p>Just for Fun | Designing | Photography</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#projects">Scoials/a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="hero">
+    <h2>Welcome to My Personal Web</h2>
+</div>
+
+<section id="about">
+    <div class="container">
+        <div class="about">
+            <img src="https://i.ibb.co/gZGtNDs/pp.jpg" alt="P.M.Sanuth Santhush">
+            <div class="about-content">
+                <h3>About Me</h3>
+                <p>Hello, I'm Sanuth Santhush, a passionate graphic designer. I love creating visually appealing and highly functional websites that provide a great user experience. My goal is to bring innovative ideas to life through code and design.</p>
+                <p>Wish me on 22/09</p>
+                <p>Studied at St.Servatius College-Matara</p>
+                <p>From Matara</p>
+                <p>Enjoy my little Project.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="projects">
+    <div class="container">
+        <h2>My Projects</h2>
+        <div class="project-list">
+            <div class="project-item">
+                <h4>Facebook 1: Facebook Profile</h4>
+                <p>https://www.facebook.com/profile.php?id=61559037106826&mibextid=ZbWKwL</p>
+            </div>
+            <div class="project-item">
+                <h4>Whatsapp: Whatsapp Profile</h4>
+                <p>https://wa.me/94771599796</p>
+            </div>
+            <div class="project-item">
+                <h4>Tiktok: Tiktok Profile</h4>
+                <p>https://www.tiktok.com/@sanh._cerr?_t=8piU2MGfmWP&_r=1</p>
+            </div>
+            <div class="project-item">
+                <h4>Tiktok: Tiktok Page</h4>
+                <p>https://www.tiktok.com/@sanah._status?_t=8piU6mtag2W&_r=1</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="contact">
+    <div class="container">
+        <h2>Contact Me</h2>
+        <p>Email: santhussanuth199@gmail.com</p>
+        <p>Phone: +94771599796</p>
+        <p>Whatsapp: +94771599796</p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Sanuth Santhush. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
