@@ -20,14 +20,14 @@
         }
 
         header {
-            background-color: #4CAF50;
+            background-color: #020049;
             padding: 20px;
             text-align: center;
             color: white;
         }
 
         header h1 {
-            font-size: 2.5rem;
+            font-size: 3.5rem;
             font-weight: bold;
         }
 
@@ -156,7 +156,7 @@
 
 <nav>
     <a href="#about">About</a>
-    <a href="#projects">Scoials/a>
+    <a href="#projects">Scoials</a>
     <a href="#contact">Contact</a>
 </nav>
 
@@ -182,23 +182,25 @@
 
 <section id="projects">
     <div class="container">
-        <h2>My Projects</h2>
+        <h2>My Socials</h2>
         <div class="project-list">
             <div class="project-item">
                 <h4>Facebook 1: Facebook Profile</h4>
-                <p>https://www.facebook.com/profile.php?id=61559037106826&mibextid=ZbWKwL</p>
+                <a href="https://www.facebook.com/profile.php?id=61559037106826&mibextid=ZbWKwL">
+                <button style="padding: 10px 20px; background-color: #b30000; color: white; border: none; border-radius: 5px; cursor: pointer;">
             </div>
             <div class="project-item">
                 <h4>Whatsapp: Whatsapp Profile</h4>
-                <p>https://wa.me/94771599796</p>
+                <a href="https://wa.me/94771599796">
+                <button style="padding: 10px 20px; background-color: #b30000; color: white; border: none; border-radius: 5px; cursor: pointer;">
             </div>
             <div class="project-item">
                 <h4>Tiktok: Tiktok Profile</h4>
-                <p>https://www.tiktok.com/@sanh._cerr?_t=8piU2MGfmWP&_r=1</p>
-            </div>
-            <div class="project-item">
-                <h4>Tiktok: Tiktok Page</h4>
-                <p>https://www.tiktok.com/@sanah._status?_t=8piU6mtag2W&_r=1</p>
+                <a href="https://www.tiktok.com/@sanh._cerr?_t=8piU2MGfmWP&_r=1">
+                <button style="padding: 10px 20px; background-color: #b30000; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    </button>
+</a>
+
             </div>
         </div>
     </div>
