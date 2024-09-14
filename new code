@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -150,7 +151,7 @@
 <body>
 
 <header>
-    <h1>Mr.Sanuth Santhush</h1>
+    <h1>Mr.SANUTH SANTHUSH</h1>
     <p>Just for Fun | Designing | Photography</p>
 </header>
 
@@ -161,7 +162,8 @@
 </nav>
 
 <div class="hero">
-    <h2>WELCOME TO MY PERSIONAL WEB</h2>
+    <h2>WELCOME TO 
+      MY PERSIONAL WEB</h2>
 </div>
 
 <section id="about">
