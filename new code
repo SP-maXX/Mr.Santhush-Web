@@ -186,21 +186,15 @@
         <div class="project-list">
             <div class="project-item">
                 <h4>Facebook 1: Facebook Profile</h4>
-                <a href="https://www.facebook.com/profile.php?id=61559037106826&mibextid=ZbWKwL">
-                <button style="padding: 10px 20px; background-color: #b30000; color: white; border: none; border-radius: 5px; cursor: pointer;">
+                <a href="https://www.facebook.com/profile.php?id=61559037106826&mibextid=ZbWKwL" style="padding: 10px 20px; background-color: #c70000; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">View</a>
             </div>
             <div class="project-item">
                 <h4>Whatsapp: Whatsapp Profile</h4>
-                <a href="https://wa.me/94771599796">
-                <button style="padding: 10px 20px; background-color: #b30000; color: white; border: none; border-radius: 5px; cursor: pointer;">
+                <a href="https://wa.me/94771599796" style="padding: 10px 20px; background-color: #c70000; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">View</a>
             </div>
             <div class="project-item">
                 <h4>Tiktok: Tiktok Profile</h4>
-                <a href="https://www.tiktok.com/@sanh._cerr?_t=8piU2MGfmWP&_r=1">
-                <button style="padding: 10px 20px; background-color: #b30000; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    </button>
-</a>
-
+                <a href="https://www.tiktok.com/@sanh._cerr?_t=8piU2MGfmWP&_r=1" style="padding: 10px 20px; background-color: #c70000; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">View</a>
             </div>
         </div>
     </div>
