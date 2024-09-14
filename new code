@@ -62,7 +62,7 @@
         }
 
         .hero h2 {
-            font-size: 9rem;
+            font-size: 6rem;
             font-weight: bold;
         }
 
@@ -156,12 +156,12 @@
 
 <nav>
     <a href="#about">About</a>
-    <a href="#projects">Scoial</a>
+    <a href="#projects">Social Profiles</a>
     <a href="#contact">Contact</a>
 </nav>
 
 <div class="hero">
-    <h2>Welcome to My Personal Web</h2>
+    <h2>WELCOME TO MY PERSIONAL WEB</h2>
 </div>
 
 <section id="about">
@@ -182,7 +182,7 @@
 
 <section id="projects">
     <div class="container">
-        <h2>My Socials</h2>
+        <h2>My Social Profiles</h2>
         <div class="project-list">
             <div class="project-item">
                 <h4>Facebook: Facebook Profile</h4>
